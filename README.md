@@ -1,16 +1,11 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**captain-tummy/captain-tummy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🧒 I'm Akinleye Ayomide.
+- 🔭 I’m currently working on building my skillset.
+- 🌱 I’m currently learning data science and machine learning with python.
+- 👯 I’m looking to collaborate in the areas of application of Artificial Intelligence, Data Science and Machine learning.
+- 🤔 I’m looking for help with internships.
+- 💬 Ask me about data science and mechanical engineering.
+- 📫 How to reach me: LinkedIn- Akinleye Ayomide
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love talking about food, any type of food 😁
--->
+- ⚡ Fun fact: I love talking about food, any type of food😁.
